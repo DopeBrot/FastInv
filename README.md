@@ -12,6 +12,9 @@ Lightweight and easy-to-use inventory API for Bukkit plugins.
 * Option to prevent a player from closing the inventory
 * The Bukkit inventory can still be directly used
 
+* edit DopeBrot: 
+* updated to newer versions.
+
 ## Installation
 
 ### Maven
